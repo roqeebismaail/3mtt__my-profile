@@ -6,10 +6,10 @@ This is a ***Personal Profile Page*** built using only HTML. The project is part
 
 ## Features
 
-✔ **Header Section** – Includes a page title and a navigation menu.
-✔ **About Me Section** – Contains a short bio and a profile image.
-✔ **Hobbies Section** – Lists my personal interests.
-✔ **Footer Section** – Displays contact information.
+*✔ **Header Section** – Includes a page title and a navigation menu.
+*✔ **About Me Section** – Contains a short bio and a profile image.
+*✔ **Hobbies Section** – Lists my personal interests.
+*✔ **Footer Section** – Displays contact information.
 
 ## Project Structure
 
